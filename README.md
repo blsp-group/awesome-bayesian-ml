@@ -16,6 +16,11 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 | [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) | Quan Nguyen  | 2023 |
 | [Bayesian Optimization: Theory and Practice Using Python](https://www.amazon.com/Bayesian-Optimization-Theory-Practice-Python/dp/1484290623) | Peng Liu | 2023 |
 
+### Gaussian Processes
+| Title                                       | Author      | Year |
+|---------------------------------------------|-------------|------|
+| [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/chapters/RW.pdf) | Carl Edward Rasmussen & Christopher K. I. Williams | 2006 |
+
 ## Papers
 
 ### Bayesian Optimization
