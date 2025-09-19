@@ -1,5 +1,5 @@
 # Awesome Bayesian ML [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated repository of awesome Bayesian machine learning resources. Maintained by [Bayesian Learning for Signal Processing (BLSP) Group](https://blsp-group.github.io).
+A curated repository of awesome Bayesian machine learning resources. Maintained by the [Bayesian Learning for Signal Processing (BLSP) Group](https://blsp-group.github.io) of [CUHK-Shenzhen](https://www.cuhk.edu.cn/en).
 
 ## Table of Contents
 - [Books](#books)
