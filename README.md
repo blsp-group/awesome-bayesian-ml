@@ -78,7 +78,7 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 | [Bayesian Optimization with scikit-learn](https://www.youtube.com/watch?v=jtRPxRnOXnk&list=PLwUqqMt5en7e9W1H7t2wbfmyqKpxXu_jG&index=8) | Thomas Huijskens      | PyData London                     | 2017 |
 | [Global Optimization with Gaussian Processes](https://www.youtube.com/watch?v=rG10zqtu8F4) | Javier González | Gaussian Process Summer School | 2015 | 
 
-## Blogs�
+## Blogs
 | Title                                                                                       | Author                         | Platform | Year |
 |---------------------------------------------------------------------------------------------|--------------------------------|----------|------|
 | [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)          | Apoorv Agnihotri & Nipun Batra | Distill  | 2020 |
@@ -86,4 +86,4 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 | [Bayesian Optimization with scikit-learn](https://thuijskens.github.io/2016/12/29/bayesian-optimisation/) | Thomas Huijskens              | Personal | 2016 |
 
 ## Contributing
-Contributions are welcome! Please feel free to open a [pull request](https://github.com/blsp-group/awesome-bayesian-ml/pulls).
+Contributions are welcome! Please feel free to open a [pull request](https://github.com/blsp-group/awesome-bayesian-ml/pulls) or send us an [email](mailto:blspcuhksz@gmail.com).
