@@ -6,7 +6,6 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 - [Papers](#papers)
 - [Videos](#videos)
 - [Blogs](#blogs)
-- [Software](#software)
 
 ## Books 📚
 | Title                                       | Author      | Year |
@@ -133,4 +132,4 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 | [Bayesian Optimization with scikit-learn](https://thuijskens.github.io/2016/12/29/bayesian-optimisation/) | Thomas Huijskens              | Personal | 2016 |
 
 ## Contributing
-Contributions are welcome! Please feel free to send me [pull requests](https://github.com/richardcsuwandi/awesome-bo/pulls) or email (richardsuwandi@link.cuhk.edu.cn).
+Contributions are welcome! Please feel free to open a [pull request](https://github.com/blsp-group/awesome-bayesian-ml/pulls).
