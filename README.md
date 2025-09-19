@@ -8,6 +8,8 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 - [Blogs](#blogs)
 
 ## Books
+
+### Bayesian Optimization
 | Title                                       | Author      | Year |
 |---------------------------------------------|-------------|------|
 | [Bayesian Optimization](https://bayesoptbook.com/) | Roman Garnett | 2023 |
@@ -15,6 +17,8 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 | [Bayesian Optimization: Theory and Practice Using Python](https://www.amazon.com/Bayesian-Optimization-Theory-Practice-Python/dp/1484290623) | Peng Liu | 2023 |
 
 ## Papers
+
+### Bayesian Optimization
 | Title                                                                                      | Publication               | Year |
 |--------------------------------------------------------------------------------------------|---------------------------|------| 
 | [BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems](http://arxiv.org/abs/2406.03616v4) | arXiv | 2024 |
@@ -68,6 +72,8 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 | [Bayesian approach to global optimization](https://link.springer.com/book/10.1007/978-94-009-0909-0) | Springer | 1989 |
 
 ## Videos
+
+### Bayesian Optimization
 | Title                                                                                           | Presenter            | Event                             | Year |
 |-------------------------------------------------------------------------------------------------|----------------------|-----------------------------------|------|
 | [Bayesian Optimization](https://www.youtube.com/watch?v=wZODGJzKmD0)                            | Roman Garnett        | Probabilistic Numerics Spring School | 2023 |
@@ -79,6 +85,8 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 | [Global Optimization with Gaussian Processes](https://www.youtube.com/watch?v=rG10zqtu8F4) | Javier González | Gaussian Process Summer School | 2015 | 
 
 ## Blogs
+
+### Bayesian Optimization
 | Title                                                                                       | Author                         | Platform | Year |
 |---------------------------------------------------------------------------------------------|--------------------------------|----------|------|
 | [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)          | Apoorv Agnihotri & Nipun Batra | Distill  | 2020 |
