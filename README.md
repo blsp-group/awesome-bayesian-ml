@@ -7,7 +7,7 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 - [Videos](#videos)
 - [Blogs](#blogs)
 
-## Books 📚
+## Books
 | Title                                       | Author      | Year |
 |---------------------------------------------|-------------|------|
 | [Bayesian Optimization](https://bayesoptbook.com/) | Roman Garnett | 2023 |
