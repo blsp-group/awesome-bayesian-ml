@@ -23,6 +23,12 @@ A curated repository of awesome Bayesian machine learning resources. Maintained 
 
 ## Papers
 
+### Bayesian Deep Learning
+| Title                                                                                      | Publication               | Year |
+|--------------------------------------------------------------------------------------------|---------------------------|------| 
+| [Deep Learning is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113) | arXiv | 2025 |
+| [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/abs/2002.08791) | arXiv | 2002 |
+
 ### Bayesian Optimization
 | Title                                                                                      | Publication               | Year |
 |--------------------------------------------------------------------------------------------|---------------------------|------| 
